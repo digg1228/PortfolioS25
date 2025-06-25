@@ -6,4 +6,5 @@ I am drawn to cybersecurity for its constant volatility. To deepen  my perspecti
 In this portfolio you will find examples of the following:
 - Scenario based Incident Report Analysis
 - Scenario based Traffic Analysis
+- WireShark TCP Log
 - IAM User Audit
