@@ -8,3 +8,4 @@ In this portfolio you will find examples of the following:
 - Scenario based Traffic Analysis
 - WireShark TCP Log
 - IAM User Audit
+- Vulnerability Assessment Report
