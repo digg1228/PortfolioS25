@@ -9,3 +9,4 @@ In this portfolio you will find examples of the following:
 - WireShark TCP Log
 - IAM User Audit
 - Vulnerability Assessment Report
+- PASTA Worksheet
