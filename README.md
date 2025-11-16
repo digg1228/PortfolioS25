@@ -4,6 +4,7 @@ I am drawn to cybersecurity for its constant volatility and the challenges faced
 
 ## Introduction:
 In this portfolio you will find examples of the following:
+- Incident Handler's Journal
 - Scenario based Incident Report Analysis
 - Scenario based Traffic Analysis
 - WireShark TCP Log
